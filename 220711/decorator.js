@@ -1,4 +1,4 @@
-function simpleDecorator(x) {
+/* function simpleDecorator(x) {
   console.log(
     `simpleDecorator의 실행 결과 Class ${x}를 인자로 받아 가공해줍니다.`
   );
@@ -14,4 +14,4 @@ class Decorated {
     this.minus = x - y;
   }
 }
-
+ */
